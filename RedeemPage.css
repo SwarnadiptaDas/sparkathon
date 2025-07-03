@@ -1,0 +1,57 @@
+ .redeem-page {
+  padding: 2rem;
+  background-color: #f0fff4;
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.redeem-options {
+  margin-top: 2rem;
+  text-align: left;
+}
+
+.option-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  background-color: #e6f7f1;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.option-box input[type="checkbox"] {
+  margin-right: 0.8rem;
+  transform: scale(1.3);
+}
+
+.back-button {
+  margin-top: 2rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #007b5e;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.back-button:hover {
+  background-color: #005f47;
+}
+.ok-button {
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #009688;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.ok-button:hover {
+  background-color: #00796b;
+}
