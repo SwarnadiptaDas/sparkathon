@@ -1,0 +1,17 @@
+ .product-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 15px;
+  margin: 15px 0;
+  text-align: left;
+  background: #f9f9f9;
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.1);
+}
+
+.product-card h2 {
+  margin-top: 0;
+}
+
+.product-card ul {
+  padding-left: 20px;
+}
