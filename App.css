@@ -1,0 +1,40 @@
+ .App {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+input, select {
+  width: 60%;
+  padding: 10px;
+  margin: 10px 5px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 16px;
+  margin: 10px 5px;
+  background-color: #0071ce;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+.modal {
+  background-color: #e8f5e9;
+  border: 2px solid #4caf50;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  box-shadow: 0 0 10px #4caf50;
+}
+
+/* You may also keep the styles for .product-card from before */
